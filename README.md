@@ -3,7 +3,7 @@ binarybits
 
 CMPS 115 Team Project
 
-Steven Chou (product owner)
+Steven Chou (Product Owner)
 Neeraj Mallampet
 Jason Shao
 Simon Ho
