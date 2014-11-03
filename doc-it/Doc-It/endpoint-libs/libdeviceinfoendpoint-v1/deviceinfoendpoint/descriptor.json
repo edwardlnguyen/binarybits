@@ -1,13 +1,13 @@
 {
   "files": [
     {
-      "downloadUrl": "/downloads/deviceinfoendpoint/v1/20141102235346/java/1.18.0-rc/google.com-deviceinfoendpoint-v1-20141102235346-java-1.18.0-rc-sources.jar", 
-      "path": "google.com-deviceinfoendpoint-v1-20141102235346-java-1.18.0-rc-sources.jar", 
+      "downloadUrl": "/downloads/deviceinfoendpoint/v1/20141103093345/java/1.18.0-rc/google.com-deviceinfoendpoint-v1-20141103093345-java-1.18.0-rc-sources.jar", 
+      "path": "google.com-deviceinfoendpoint-v1-20141103093345-java-1.18.0-rc-sources.jar", 
       "type": "source", 
-      "timestamp": "2014-11-02 23:53"
+      "timestamp": "2014-11-03 09:33"
     }, 
     {
-      "path": "google.com-deviceinfoendpoint-v1-20141102235346-java-1.18.0-rc.jar.properties", 
+      "path": "google.com-deviceinfoendpoint-v1-20141103093345-java-1.18.0-rc.jar.properties", 
       "type": "android.properties"
     }
   ], 
@@ -23,7 +23,7 @@
   "maven": {
     "group_id": "com.google.apis", 
     "artifact_id": "google-api-services-doc_it-deviceinfoendpoint", 
-    "version": "v1-rev20141102235346-1.18.0-rc"
+    "version": "v1-rev20141103093345-1.18.0-rc"
   }, 
   "dependencies": [
     {
@@ -675,5 +675,5 @@
   "packagePath": "doc_it", 
   "language_version": "1.18.0-rc", 
   "id": "deviceinfoendpoint:v1", 
-  "revision": 20141102235346
+  "revision": 20141103093345
 }

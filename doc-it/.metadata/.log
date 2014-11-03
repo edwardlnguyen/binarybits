@@ -711,3 +711,33 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !ENTRY com.google.appengine.eclipse.core 4 0 2014-11-02 15:54:25.800
 !MESSAGE Datanucleus enhancer terminated with exit code 1.
 Navigate to the console view for "Datanucleus Enhancer" for more information
+
+!ENTRY com.google.appengine.eclipse.core 4 0 2014-11-02 23:30:43.356
+!MESSAGE Datanucleus enhancer terminated with exit code 1.
+Navigate to the console view for "Datanucleus Enhancer" for more information
+
+!ENTRY com.google.appengine.eclipse.core 4 0 2014-11-03 00:20:17.251
+!MESSAGE Datanucleus enhancer terminated with exit code 1.
+Navigate to the console view for "Datanucleus Enhancer" for more information
+
+!ENTRY com.google.appengine.eclipse.core 4 0 2014-11-03 00:21:02.952
+!MESSAGE Datanucleus enhancer terminated with exit code 1.
+Navigate to the console view for "Datanucleus Enhancer" for more information
+
+!ENTRY com.google.appengine.eclipse.core 4 0 2014-11-03 01:27:11.377
+!MESSAGE Datanucleus enhancer terminated with exit code 1.
+Navigate to the console view for "Datanucleus Enhancer" for more information
+
+!ENTRY com.google.gdt.eclipse.suite.ext 1 0 2014-11-03 01:27:14.174
+!MESSAGE Sending POST request to Analytics: {el=id=1414224733315&ev=3.9.1.v20140825-1431&v=com.google.gdt.eclipse.suite.e44.feature_3.7.0.v201407290036-rel-r44&gaev=1.9.14&p=org.eclipse.epp.package.java.product&action=gae_backend_deploy&appIdHash=DA39A3EE5E6B4B0D3255BFEF95601890AFD80709&isGoogleCloudSqlUsed=false&isSignedIn=false, an=Google Plugin for Eclipse, tid=UA-43239122-1, cd10=1414224733315, cd1=org.eclipse.epp.package.java.product, cd4=com.google.gdt.eclipse.suite.e44.feature_3.7.0.v201407290036-rel-r44, cd3=3.9.1.v20140825-1431, t=event, cd6=GAE 1.9.14, cd5=false, v=1, ea=GENERATE_ENDPOINT_CLASS, ec=com.google.gdt.eclipse.appengine.swarm, cid=1414224733315}
+
+!ENTRY com.google.gdt.eclipse.suite.ext 1 0 2014-11-03 01:27:14.174
+!MESSAGE Analytics ping request parameters: el=id%3D1414224733315%26ev%3D3.9.1.v20140825-1431%26v%3Dcom.google.gdt.eclipse.suite.e44.feature_3.7.0.v201407290036-rel-r44%26gaev%3D1.9.14%26p%3Dorg.eclipse.epp.package.java.product%26action%3Dgae_backend_deploy%26appIdHash%3DDA39A3EE5E6B4B0D3255BFEF95601890AFD80709%26isGoogleCloudSqlUsed%3Dfalse%26isSignedIn%3Dfalse&an=Google%20Plugin%20for%20Eclipse&tid=UA-43239122-1&cd10=1414224733315&cd1=org.eclipse.epp.package.java.product&cd4=com.google.gdt.eclipse.suite.e44.feature_3.7.0.v201407290036-rel-r44&cd3=3.9.1.v20140825-1431&t=event&cd6=GAE%201.9.14&cd5=false&v=1&ea=GENERATE_ENDPOINT_CLASS&ec=com.google.gdt.eclipse.appengine.swarm&cid=1414224733315
+
+!ENTRY com.google.gdt.eclipse.suite.ext 1 0 2014-11-03 01:27:14.455
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.google.appengine.eclipse.core 4 0 2014-11-03 01:46:11.372
+!MESSAGE Datanucleus enhancer terminated with exit code 1.
+Navigate to the console view for "Datanucleus Enhancer" for more information
